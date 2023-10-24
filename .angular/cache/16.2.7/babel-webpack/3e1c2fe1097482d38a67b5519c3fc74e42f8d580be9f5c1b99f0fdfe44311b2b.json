@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"lit-html/static.js\";","map":{"version":3,"names":[],"sources":["/home/KonnorRogers/shoelace-angular/node_modules/lit/static-html.js"],"sourcesContent":["export*from\"lit-html/static.js\";\n"],"mappings":"AAAA,cAAW,oBAAoB"},"metadata":{},"sourceType":"module","externalDependencies":[]}
